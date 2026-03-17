@@ -4,12 +4,12 @@ public class example {
 
     static void test() {
         try {
-            System.out.println("Try");
+            System.out.println("in Try");
             int x=10/0;
         } catch (Exception e) {
-            System.out.println("Catch");
+            System.out.println("in Catch");
         } finally {
-            System.out.println("Finally");
+            System.out.println("in Finally");
         }
     }
 
