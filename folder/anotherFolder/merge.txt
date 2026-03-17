@@ -1,0 +1,8 @@
+A1
+A2
+A3
+----- File 2 Content -----
+B1
+B2
+B3
+B4
